@@ -22,3 +22,5 @@ gem "wdm", :install_if => Gem.win_platform?
 if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
+
+# gem "jekyll-theme-chirpy"
