@@ -10,4 +10,4 @@ pin: true
 # COMP4600 Course Project
 
 
-This is the demo repo for my personal course projects. This is a theoretical analysis project without any code implementation. View at [Source Report](https://github.com/WangZhen-Ryan/Markov-Chains-Analysis/blob/main/COMP4600_Project.pdf)
+This is the demo repo for my personal course projects. This is a theoretical analysis project without any code implementation. View at [Source Report](https://drive.google.com/file/d/1mNSd2DbAicEMcNFTf_7qm3yskN72f2aQ/view?pli=1)

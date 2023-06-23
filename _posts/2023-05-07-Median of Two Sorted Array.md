@@ -11,7 +11,7 @@ math: true
 
 # The Problem Setting
 
-Brute Force:
+## Brute Force
 
 List1: 1 2 3 5 7 12 14  length m 
 List2: 4 9 10 length n
@@ -20,7 +20,7 @@ List2: 4 9 10 length n
 
 Merging two lists directly will take O(m+n) complexity. The best case has complexity of O(m) if the second list is all larger or smaller than the first list.
 
-Binary search:
+## Binary search
 
 We want to find the median, which can be done by partitioning the array into two halves such that the two halves have the same length and that the element in the left half is less than the right half. 
 
